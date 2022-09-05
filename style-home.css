@@ -1,0 +1,89 @@
+header {
+    margin-left: 30px;
+}
+
+.titulo-principal {
+    padding: 8px 0 0 40px;
+    margin: 25px 0;
+    font-size: 70px;
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+}
+
+.introducao {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+#banner {
+    width: 100%;
+    border: 5px solid #222222;
+    border-radius: 10px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-size: 50px;
+    padding: 20px 0 35px 0;
+}
+
+.paragrafo {
+    text-align: center;
+    padding: 8px 0;
+    font-size: 25px;
+}
+
+#missao {
+    font-size: 30px;
+    text-align: center;
+}
+
+em strong {
+    color: rgb(255,0,0);
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 19%;
+    margin: 5% 12% 0;
+    font-size: 30px;
+    position: relative;
+    top: 75px;
+    left: 45px
+}
+
+li:hover {
+    font-size: 32px;
+    color: #2d3fa4
+}
+
+.itens {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.imagem-beneficios {
+    width: 50%;
+    border: 5px solid #222222;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 20px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
