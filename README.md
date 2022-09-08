@@ -214,11 +214,9 @@ entre outros...
 </details>
 
 <br>
-<br>
 
 <h3><strong>Instrutor dos cursos:</strong> Pedro Marins</h3>
 
-<br>
 <br>
 
 <h1>Técnologias usadas</h1>
