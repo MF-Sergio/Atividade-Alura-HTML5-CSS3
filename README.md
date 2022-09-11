@@ -23,6 +23,7 @@ As páginas criadas possuem diversos itens dos ensinamentos aplicados, como:
 - Interações com o mouse
 - Fonte externa
 - Fundo em dregradê
+- Dinamicidade para o uso das páginas em mobiles
 
 entre outros...
 
