@@ -8,6 +8,9 @@
 ![badge versão do VSCode](https://img.shields.io/badge/VSCode-1.71.0-blue)
 
 <h3><strong>Projeto concluído</strong> de 3 páginas web de uma barbearia fictícia criado com base em 4 cursos de HTML5 e CSS3 da escola de técnologia ALURA</h3>
+
+<br>
+
 As páginas criadas possuem diversos itens dos ensinamentos aplicados, como:
 
 - Cabeçalho e rodapé com estilos independentes
@@ -24,6 +27,7 @@ As páginas criadas possuem diversos itens dos ensinamentos aplicados, como:
 - Fundo em dregradê
 
 entre outros...
+
 <br>
 
 ><h3>:closed_book: Aprendizados:</h3>
@@ -215,8 +219,7 @@ entre outros...
 
 <br>
 
-<h3><strong>Instrutor dos cursos:</strong> Pedro Marins</h3>
-
+><h3>:pencil2:Instrutor dos cursos: Pedro Marins</h3>
 <br>
 
 <h1>Técnologias usadas</h1>
