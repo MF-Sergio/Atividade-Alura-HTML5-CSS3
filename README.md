@@ -1,3 +1,5 @@
+<h3 align='center'>Atividade-Curso-Alura-HTML5-CSS3</h3>
+
 <p align='center'><img src="banner-cortado.jpg" alt="banner com imagem de uma barbearia"></p>
 
 <h1 align="center">:barber:Barbearia Alura:barber:</h1>
