@@ -1,13 +1,11 @@
-﻿<p align='center'>
-<img src="banner-cortado.jpg" alt="banner com imagem de uma barbearia">
-</p>
+<p align='center'><img src="banner-cortado.jpg" alt="banner com imagem de uma barbearia"></p>
 
 <h1 align="center">:barber:Barbearia Alura:barber:</h1>
 
 ![badge status concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
-![badge versão do VSCode](https://img.shields.io/badge/VSCode-1.71.0-blue)
+![badge versão usada do VSCode](https://img.shields.io/badge/VSCode-1.71.0-blue)
 
-<h3><strong>Projeto concluído</strong> de 3 páginas web de uma barbearia fictícia criado com base em 4 cursos de HTML5 e CSS3 da escola de técnologia ALURA</h3>
+## Projeto concluído de 3 páginas web de uma barbearia fictícia criado com base em 4 cursos de HTML5 e CSS3 da escola de técnologia ALURA
 
 <br>
 
@@ -30,10 +28,10 @@ entre outros...
 
 <br>
 
-><h3>:closed_book: Aprendizados:</h3>
+>### :closed_book: Aprendizados:</h3>
 
 <details>
-<summary>HTML5 e CSS3 parte 1: crie uma página da Web:</summary>
+<summary>Criação de uma página da Web:</summary>
 
 - Uma introdução ao HTML e às suas ***tags***
 - Como definir o título e os parágrafos de um texto
@@ -87,7 +85,7 @@ entre outros...
 </details>
 
 <details>
-<summary>HTML5 e CSS3 parte 2: posicionamento, listas e navegação</summary>
+<summary>Posicionamento, listas e navegação</summary>
 
 - Uma introdução ao projeto do treinamento
 - Uma revisão do conteúdo aprendido no treinamento anterior
@@ -120,7 +118,7 @@ entre outros...
 </details>
 
 <details>
-<summary>HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas</summary>
+<summary>Trabalhando com formulários e tabelas</summary>
 
 - Uma revisão do conteúdo aprendido no treinamento anterior
 - Uma introdução ao projeto do treinamento
@@ -165,7 +163,7 @@ entre outros...
 </details>
 
 <details>
-<summary>HTML5 e CSS3 parte 4: avançando no CSS</summary>
+<summary>Avançando no CSS</summary>
 
 - A ajustar a página principal para utilizar os mesmos padrões da página de produtos
 - Medidas proporcionais com CSS
@@ -219,10 +217,10 @@ entre outros...
 
 <br>
 
-><h3>:pencil2:Instrutor dos cursos: Pedro Marins</h3>
+>### :pencil2:Instrutor dos cursos: Pedro Marins
 <br>
 
-<h1>Técnologias usadas</h1>
+## Tecnologias usadas
 
 - `HTML5`
 
