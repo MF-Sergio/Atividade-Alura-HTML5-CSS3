@@ -1,16 +1,31 @@
-<h3 align='center'>Atividade-Curso-Alura-HTML5-CSS3</h3>
+<h1>Atividade Alura HTML5 CSS3</h1>
 
 <p align='center'><img src="banner-cortado.jpg" alt="banner com imagem de uma barbearia"></p>
 
-<h1 align="center">:barber:Barbearia Alura:barber:</h1>
+<h2 align="center">:barber:Barbearia Alura:barber:</h2>
 
-![badge status concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
-![badge versão usada do VSCode](https://img.shields.io/badge/VSCode-1.71.0-blue)
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=VSCode&message=1.72.0&color=blue&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Projeto concluído de 3 páginas web de uma barbearia fictícia criado com base em 4 cursos de HTML5 e CSS3 da escola de técnologia ALURA
+> Status do Projeto: :heavy_check_mark: Concluído
+
+<br>
+ 
+### Tópicos 
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
 <br>
 
+## Descrição do projeto 
+
+<p align="justify">
+  <strong>Projeto concluído</strong> de 3 páginas web de uma barbearia fictícia criado com base em 4 cursos de HTML5 e CSS3 da escola de técnologia ALURA.
+</p>
 As páginas criadas possuem diversos itens dos ensinamentos aplicados, como:
 
 - Cabeçalho e rodapé com estilos independentes
@@ -25,16 +40,14 @@ As páginas criadas possuem diversos itens dos ensinamentos aplicados, como:
 - Interações com o mouse
 - Fonte externa
 - Fundo em dregradê
-- Dinamicidade para o uso das páginas em mobiles
 
 entre outros...
-
 <br>
 
->### :closed_book: Aprendizados:</h3>
+## Aprendizados:
 
 <details>
-<summary>Criação de uma página da Web:</summary>
+<summary>HTML5 e CSS3 parte 1: crie uma página da Web:</summary>
 
 - Uma introdução ao HTML e às suas ***tags***
 - Como definir o título e os parágrafos de um texto
@@ -88,7 +101,7 @@ entre outros...
 </details>
 
 <details>
-<summary>Posicionamento, listas e navegação</summary>
+<summary>HTML5 e CSS3 parte 2: posicionamento, listas e navegação</summary>
 
 - Uma introdução ao projeto do treinamento
 - Uma revisão do conteúdo aprendido no treinamento anterior
@@ -121,7 +134,7 @@ entre outros...
 </details>
 
 <details>
-<summary>Trabalhando com formulários e tabelas</summary>
+<summary>HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas</summary>
 
 - Uma revisão do conteúdo aprendido no treinamento anterior
 - Uma introdução ao projeto do treinamento
@@ -166,7 +179,7 @@ entre outros...
 </details>
 
 <details>
-<summary>Avançando no CSS</summary>
+<summary>HTML5 e CSS3 parte 4: avançando no CSS</summary>
 
 - A ajustar a página principal para utilizar os mesmos padrões da página de produtos
 - Medidas proporcionais com CSS
@@ -220,11 +233,25 @@ entre outros...
 
 <br>
 
->### :pencil2:Instrutor dos cursos: Pedro Marins
+
 <br>
 
-## Tecnologias usadas
+## Linguagens utilizadas :books:
 
 - `HTML5`
-
 - `CSS3`
+
+<br>
+
+## Desenvolvedores/Contribuintes :octocat:
+
+Liste o time responsável pelo desenvolvimento do projeto
+
+| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
+| :---: |
+
+## Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: Ano - Titulo do Projeto
