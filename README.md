@@ -17,7 +17,11 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Aprendizados](#aprendizados)
+
+:small_blue_diamond: [Deploy das Páginas](#deploy-das-páginas-dash)
+
+:small_blue_diamond: [Créditos](#linguagens-utilizadas-books)
 
 <br>
 
@@ -233,7 +237,10 @@ entre outros...
 
 <br>
 
+## Deploy das páginas :dash:
 
+> https://mf-sergio.github.io/Atividade-Alura-HTML5-CSS3/
+  
 <br>
 
 ## Linguagens utilizadas :books:
@@ -242,16 +249,14 @@ entre outros...
 - `CSS3`
 
 <br>
+  
+## Instrutor dos cursos :pencil2:
+  
+  Pedro Marins
+  
+<br>
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
-
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
+| [<img src="https://avatars.githubusercontent.com/u/109549530?s=400&u=383b5445959d99d74a62089d5391bf01e851c147&v=4" width=115><br><sub>Sérgio Mendes Filho</sub>](https://github.com/MF-Sergio) |
 | :---: |
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: Ano - Titulo do Projeto
