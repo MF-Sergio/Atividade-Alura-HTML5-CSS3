@@ -1,8 +1,6 @@
-<h1>Atividade Alura HTML5 CSS3</h1>
-
 <p align='center'><img src="banner-cortado.jpg" alt="banner com imagem de uma barbearia"></p>
 
-<h2 align="center">:barber:Barbearia Alura:barber:</h2>
+<h1 align="center">:barber:Barbearia Alura:barber:</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=VSCode&message=1.72.0&color=blue&style=for-the-badge"/>
